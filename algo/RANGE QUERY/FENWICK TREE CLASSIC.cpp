@@ -13,6 +13,7 @@ using namespace std;
 */
 
 //Cases
+// INCLUSIVE VERSION [L,R]
 struct Fenwick{
     vector<ll> bits;
     int N;
